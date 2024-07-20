@@ -5,51 +5,15 @@ This directory contains boilerplate code and snippets for DevOps practices, incl
 
 ## Table of Contents
 
-- [CI/CD](#cicd)
-- [Docker](#docker)
-- [Kubernetes](#kubernetes)
 - [Using the Code](#using-the-code)
 - [Contributing](#contributing)
 - [License](#license)
-
-## CI/CD
-
-This folder includes sample configurations for setting up continuous integration and deployment pipelines.
-
-### Example Files
-
-- **Jenkinsfile**: A sample Jenkins pipeline script.
-- **.gitlab-ci.yml**: A sample GitLab CI configuration file.
-
-## Docker
-
-This folder contains Docker-related boilerplates.
-
-### Example Files
-
-- **Dockerfile**: A sample Dockerfile for building Docker images.
-- **docker-compose.yml**: A sample Docker Compose file for multi-container applications.
-
-## Kubernetes
-
-This folder contains Kubernetes configurations.
-
-### Example Files
-
-- **deployment.yaml**: A sample Kubernetes deployment file.
-- **service.yaml**: A sample Kubernetes service file.
 
 ## Using the Code
 
 1. **Navigate to the Appropriate Folder**: Go to the folder that matches your needs (CI/CD, Docker, Kubernetes).
 2. **Review and Copy the Code**: Each file includes comments and documentation to help you understand how to use it.
 3. **Integrate into Your Project**: Copy the files into your project and adjust any specific configurations as needed.
-
-### Example: Using a Dockerfile
-
-1. **Copy the Code**: Copy the `Dockerfile` from the `docker/` directory.
-2. **Add to Project**: Paste the file into your project's root directory.
-3. **Build the Image**: Run `docker build -t your-image-name .` to build the Docker image.
 
 ## Contributing
 
