@@ -46,9 +46,6 @@
 [submodule "devops/bash/book/bashcookbook-examples"]
 	path = devops/bash/book/bashcookbook-examples
 	url = https://github.com/fankao/bashcookbook-examples.git
-[submodule "devops/bash/book/DevOps-Bash-tools"]
-	path = devops/bash/book/DevOps-Bash-tools
-	url = https://github.com/HariSekhon/DevOps-Bash-tools.git
 [submodule "devops/bash/book/awesome-bash"]
 	path = devops/bash/book/awesome-bash
 	url = https://github.com/FANKAO-AREAS/awesome-bash.git
@@ -67,3 +64,6 @@
 [submodule "devops/ci-cd/jenkin/Hands-on-Pipeline-as-YAML-with-Jenkins"]
 	path = devops/ci-cd/jenkin/Hands-on-Pipeline-as-YAML-with-Jenkins
 	url = https://github.com/fankao/Hands-on-Pipeline-as-YAML-with-Jenkins.git
+[submodule "devops/bash/book/DevOps-Bash-tool"]
+	path = devops/bash/book/DevOps-Bash-tool
+	url = https://github.com/FANKAO-AREAS/DevOps-Bash-tools.git
