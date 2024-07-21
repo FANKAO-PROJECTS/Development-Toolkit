@@ -1,0 +1,69 @@
+[submodule "java/core/effective-java-3e-source-code"]
+	path = java/core/effective-java-3e-source-code
+	url = https://github.com/FANKAO-AREAS/effective-java-3e-source-code.git
+[submodule "java/core/Java-Coding-Problems-Second-Edition"]
+	path = java/core/Java-Coding-Problems-Second-Edition
+	url = https://github.com/FANKAO-AREAS/Java-Coding-Problems-Second-Edition.git
+[submodule "java/core/Learn-Java-with-Projects"]
+	path = java/core/Learn-Java-with-Projects
+	url = https://github.com/FANKAO-AREAS/Learn-Java-with-Projects.git
+[submodule "java/core/concurrency/Mastering-Concurrency-Programming-with-Java-9-Second-Edition"]
+	path = java/core/concurrency/Mastering-Concurrency-Programming-with-Java-9-Second-Edition
+	url = https://github.com/PacktPublishing/Mastering-Concurrency-Programming-with-Java-9-Second-Edition.git
+[submodule "java/core/concurrency/Java-9-Concurrency-Cookbook-Second-Edition"]
+	path = java/core/concurrency/Java-9-Concurrency-Cookbook-Second-Edition
+	url = https://github.com/FANKAO-AREAS/Java-9-Concurrency-Cookbook-Second-Edition.git
+[submodule "java/spring/sample/Microservices-with-Spring-Boot-and-Spring-Cloud-Third-Edition"]
+	path = java/spring/sample/Microservices-with-Spring-Boot-and-Spring-Cloud-Third-Edition
+	url = https://github.com/FANKAO-AREAS/Microservices-with-Spring-Boot-and-Spring-Cloud-Third-Edition.git
+[submodule "java/spring/boot/Spring-Boot-In-Practice"]
+	path = java/spring/boot/Spring-Boot-In-Practice
+	url = https://github.com/FANKAO-AREAS/Spring-Boot-In-Practice.git
+[submodule "java/spring/boot/Spring-Boot-3.0-Cookbook"]
+	path = java/spring/boot/Spring-Boot-3.0-Cookbook
+	url = https://github.com/FANKAO-AREAS/Spring-Boot-3.0-Cookbook.git
+[submodule "java/spring/jpa/java-persistence-spring-data-hibernate"]
+	path = java/spring/jpa/java-persistence-spring-data-hibernate
+	url = https://github.com/FANKAO-AREAS/java-persistence-spring-data-hibernate.git
+[submodule "java/spring/sample/ftgo-application"]
+	path = java/spring/sample/ftgo-application
+	url = https://github.com/FANKAO-AREAS/ftgo-application.git
+[submodule "devops/docker/awesome/awesome-compose"]
+	path = devops/docker/awesome/awesome-compose
+	url = https://github.com/FANKAO-AREAS/awesome-compose.git
+[submodule "devops/docker/book/The-Ultimate-Docker-Container-Book"]
+	path = devops/docker/book/The-Ultimate-Docker-Container-Book
+	url = https://github.com/FANKAO-AREAS/The-Ultimate-Docker-Container-Book.git
+[submodule "devops/docker/book/Docker-Practical-Guide-for-Developers-and-Devops-Teams-The-Rheinwerk-Computing-"]
+	path = devops/docker/book/Docker-Practical-Guide-for-Developers-and-Devops-Teams-The-Rheinwerk-Computing-
+	url = https://github.com/FANKAO-AREAS/Docker-Practical-Guide-for-Developers-and-Devops-Teams-The-Rheinwerk-Computing-.git
+[submodule "devops/kubernetes/book/Mastering-Kubernetes-4th-Edition"]
+	path = devops/kubernetes/book/Mastering-Kubernetes-4th-Edition
+	url = https://github.com/FANKAO-AREAS/Mastering-Kubernetes-4th-Edition.git
+[submodule "devops/kubernetes/book/kubernetes-for-developers"]
+	path = devops/kubernetes/book/kubernetes-for-developers
+	url = https://github.com/FANKAO-AREAS/kubernetes-for-developers.git
+[submodule "devops/bash/book/bashcookbook-examples"]
+	path = devops/bash/book/bashcookbook-examples
+	url = https://github.com/fankao/bashcookbook-examples.git
+[submodule "devops/bash/book/DevOps-Bash-tools"]
+	path = devops/bash/book/DevOps-Bash-tools
+	url = https://github.com/HariSekhon/DevOps-Bash-tools.git
+[submodule "devops/bash/book/awesome-bash"]
+	path = devops/bash/book/awesome-bash
+	url = https://github.com/FANKAO-AREAS/awesome-bash.git
+[submodule "devops/bash/awesome-devops"]
+	path = devops/bash/awesome-devops
+	url = https://github.com/FANKAO-AREAS/awesome-devops.git
+[submodule "devops/ci-cd/github/GitHub-Actions-Cookbook"]
+	path = devops/ci-cd/github/GitHub-Actions-Cookbook
+	url = https://github.com/FANKAO-AREAS/GitHub-Actions-Cookbook.git
+[submodule "devops/ci-cd/github/Mastering-GitHub-Actions"]
+	path = devops/ci-cd/github/Mastering-GitHub-Actions
+	url = https://github.com/FANKAO-AREAS/Mastering-GitHub-Actions.git
+[submodule "devops/ci-cd/jenkin/Continuous-Delivery-With-Docker-and-Jenkins-3rd-Edition"]
+	path = devops/ci-cd/jenkin/Continuous-Delivery-With-Docker-and-Jenkins-3rd-Edition
+	url = https://github.com/FANKAO-AREAS/Continuous-Delivery-With-Docker-and-Jenkins-3rd-Edition.git
+[submodule "devops/ci-cd/jenkin/Hands-on-Pipeline-as-YAML-with-Jenkins"]
+	path = devops/ci-cd/jenkin/Hands-on-Pipeline-as-YAML-with-Jenkins
+	url = https://github.com/fankao/Hands-on-Pipeline-as-YAML-with-Jenkins.git
