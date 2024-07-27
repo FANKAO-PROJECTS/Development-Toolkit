@@ -1,0 +1,18 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: echo
+spec:
+  completions: 5
+  parallelism: 3
+  completionMode: Indexed
+  template:
+    metadata:
+      labels:
+        pod: framerender
+    spec:
+      restartPolicy: Never
+      containers:
+      - name: 'worker'
+        image: 'docker.io/library/busybox'
+        command: ["echo", "render frame: $(JOB_COMPLETION_INDEX)"]

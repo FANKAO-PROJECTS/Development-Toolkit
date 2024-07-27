@@ -1,0 +1,9 @@
+# A high priority class definition that does not preempt running Pods
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata:
+  name: high-priority
+value: 1000000
+preemptionPolicy: Never
+globalDefault: false
+description: "Critical services."
