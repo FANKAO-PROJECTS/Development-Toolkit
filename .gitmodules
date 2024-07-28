@@ -19,3 +19,9 @@
 [submodule "system-design/system-design"]
 	path = system-design/system-design
 	url = https://github.com/FANKAO-AREAS/system-design.git
+[submodule "system-design/tech-interview-handbook-new"]
+	path = system-design/tech-interview-handbook-new
+	url = https://github.com/FANKAO-AREAS/tech-interview-handbook.git
+[submodule "java/pattern/java-design-patterns"]
+	path = java/pattern/java-design-patterns
+	url = https://github.com/FANKAO-AREAS/java-design-patterns.git
