@@ -1,0 +1,24 @@
+[submodule "system-design/system-design-101"]
+	path = system-design/system-design-101
+	url = https://github.com/FANKAO-AREAS/system-design-101.git
+[submodule "system-design/system-design-primer"]
+	path = system-design/system-design-primer
+	url = https://github.com/FANKAO-AREAS/system-design-primer.git
+[submodule "system-design/awesome-system-design"]
+	path = system-design/awesome-system-design
+	url = https://github.com/FANKAO-AREAS/awesome-system-design.git
+[submodule "system-design/system-design-interview"]
+	path = system-design/system-design-interview
+	url = https://github.com/FANKAO-AREAS/system-design-interview.git
+[submodule "system-design/system-design-resources"]
+	path = system-design/system-design-resources
+	url = https://github.com/FANKAO-AREAS/system-design-resources.git
+[submodule "system-design/awesome-scalability"]
+	path = system-design/awesome-scalability
+	url = https://github.com/FANKAO-AREAS/awesome-scalability.git
+[submodule "system-design/tech-interview-handbook"]
+	path = system-design/tech-interview-handbook
+	url = https://github.com/yangshun/tech-interview-handbook.git
+[submodule "system-design/system-design"]
+	path = system-design/system-design
+	url = https://github.com/FANKAO-AREAS/system-design.git
