@@ -16,9 +16,6 @@
 [submodule "system-design/awesome-scalability"]
 	path = system-design/awesome-scalability
 	url = https://github.com/FANKAO-AREAS/awesome-scalability.git
-[submodule "system-design/tech-interview-handbook"]
-	path = system-design/tech-interview-handbook
-	url = https://github.com/yangshun/tech-interview-handbook.git
 [submodule "system-design/system-design"]
 	path = system-design/system-design
 	url = https://github.com/FANKAO-AREAS/system-design.git
