@@ -1,20 +1,22 @@
 # Define the mapping of chapter numbers to the transformed names
 $chapterMap = @{
-    "chapter2"  = "2-creating-destroying-objects"
-    "chapter3"  = "3-common-methods"
-    "chapter4"  = "4-classes-interfaces"
-    "chapter5"  = "5-generics"
-    "chapter6"  = "6-enums-annotations"
-    "chapter7"  = "7-lambdas-streams"
-    "chapter8"  = "8-methods"
-    "chapter9"  = "9-general-programming"
-    "chapter10" = "10-exceptions"
-    "chapter11" = "11-concurrency"
-    "chapter12" = "12-serialization"
+    "Chapter01" = "1-text-blocks-locales-math"
+    "Chapter02" = "2-objects-immutability-pattern-matching"
+    "Chapter03" = "3-date-time"
+    "Chapter04" = "4-records-record-patterns"
+    "Chapter05" = "5-arrays-collections-data-structures"
+    "Chapter06" = "6-java-io-deserialization-filters"
+    "Chapter07" = "7-foreign-memory-api"
+    "Chapter08" = "8-sealed-hidden-classes"
+    "Chapter09" = "9-functional-style-programming"
+    "Chapter10" = "10-concurrency-virtual-threads"
+    "Chapter11" = "11-concurrency-diving-deeper"
+    "Chapter12" = "12-garbage-collectors-cds-archives"
+    "Chapter13" = "13-socket-api-web-server"
 }
 
 # Path to the main folder containing the chapter folders
-$mainFolderPath = "D:\Working\1.PROJECT\Development-Toolkit\java\core\effective-java-3e\src\effectivejava"
+$mainFolderPath = "D:\Working\1.PROJECT\Development-Toolkit\java\core\Java-Coding-Problems"
 
 # Loop through each mapping and rename the corresponding folders
 foreach ($chapter in $chapterMap.Keys) {
