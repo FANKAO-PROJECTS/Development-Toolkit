@@ -1,21 +1,24 @@
 # Define the mapping of chapter numbers to the transformed names
 $chapterMap = @{
-     "Chapter02" = "2-k8s-app-deployment"
-        "Chapter03" = "3-containerizing-apps"
-        "Chapter04" = "4-deploying-kubernetes"
-        "Chapter05" = "5-automated-operations"
-        "Chapter06" = "6-resource-management"
-        "Chapter07" = "7-scaling-up"
-        "Chapter08" = "8-internal-services-load-balancing"
-        "Chapter09" = "9-node-feature-selection"
-        "Chapter10" = "10-stateful-applications"
-        "Chapter11" = "11-background-processing"
-        "Chapter12" = "12-gitops-config-as-code"
-        "Chapter13" = "13-securing-kubernetes"
+    "ch2"  = "2-creating-k8s-clusters"
+        "ch3"  = "3-high-availability-reliability"
+        "ch4"  = "4-securing-kubernetes"
+        "ch5"  = "5-using-k8s-resources"
+        "ch6"  = "6-managing-storage"
+        "ch7"  = "7-stateful-apps-kubernetes"
+        "ch8"  = "8-deploying-updating-apps"
+        "ch9"  = "9-packaging-apps"
+        "ch10" = "10-exploring-k8s-networking"
+        "ch12" = "12-multiple-k8s-clusters"
+        "ch13" = "13-serverless-computing-kubernetes"
+        "ch14" = "14-monitoring-k8s-clusters"
+        "ch15" = "15-service-meshes"
+        "ch16" = "16-extending-kubernetes"
+        "ch17" = "17-governing-kubernetes"
 }
 
 # Path to the main folder containing the chapter folders
-$mainFolderPath = "D:\Working\1.PROJECT\Development-Toolkit\devops\kubernetes\kubernetes-for-developers"
+$mainFolderPath = "D:\Working\1.PROJECT\Development-Toolkit\devops\kubernetes\Mastering-Kubernetes"
 
 # Loop through each mapping and rename the corresponding folders
 foreach ($chapter in $chapterMap.Keys) {
