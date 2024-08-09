@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "preinstall-ci": "npm run replace-version",
+    "install-ci": "./mvnw -ntp clean install -DskipTests -Dmaven.javadoc.skip=true -Dgpg.skip=true --batch-mode",
+    "install-jar": "./mvnw install -Dgpg.skip=true",
+    "prettier:check": "prettier --check .",
+    "prettier:format": "prettier --write .",
+    "replace-version": "./mvnw -ntp versions:set -DnewVersion=${JHI_VERSION:-0.0.0-CICD} -DgenerateBackupPoms=false",
+    "test": "npm run prettier:check"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "prettier-plugin-java": "2.6.4"
+  }
+}
